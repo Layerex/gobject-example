@@ -1,0 +1,6 @@
+*.o
+animal
+
+# clangd
+.cache/
+compile_commands.json
